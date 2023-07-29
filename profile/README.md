@@ -1,4 +1,7 @@
+# Hi, we're Dethrone.cc
 
+## 🚀 About Us
+We're a team of developers focused on making game-modifications and privacy-related software.  
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/Olympus_Discord-000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/olympusxyz)
 
